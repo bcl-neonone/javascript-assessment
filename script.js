@@ -34,8 +34,8 @@ const seatTypes = ['standard', 'wheelchair', 'companion', 'transfer', 'special']
 
 
 /* 
-    6. When the user clicks the page's <h1> element, update the background color 
-    of the page body and the color of the page text
+    6. When a user clicks the page's <h1> element, update the background color 
+    of the page body as well as the color of the page text.
 */
 
 
